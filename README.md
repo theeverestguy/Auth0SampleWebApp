@@ -1,4 +1,9 @@
 # Auth0-Sample-WebApp
+	
+## Requirements
+
+- Auth0 account
+- A sample application in Auth0 (https://auth0.com/docs/getting-started/set-up-app)
 
 ## Running the Sample
 
